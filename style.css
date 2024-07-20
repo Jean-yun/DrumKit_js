@@ -1,0 +1,88 @@
+
+body {
+background-color: #131842;
+text-align: center;}
+
+h1 {
+font-family: "Bungee", sans-serif;
+font-size: 8rem;
+color: #ECCEAE;
+text-shadow: 10px 0 black;
+}
+
+
+.set {
+margin: 10% auto
+}
+
+
+.drum {
+border-radius: 15px;
+display: inline-block;
+border: 10px solid #7776B3;
+
+width: 150px;
+height: 150px;
+margin: 20px;
+font-family: "indie Flower", cursive;
+font-weight: 900;
+font-size: 4rem;
+color: #E76F51;
+background-color: white;}
+
+.w{
+background-image: url("images/tom1.png");
+/* background-size: cover;
+background-position: center; */
+}
+
+.a{
+background-image: url("images/tom2.png");
+/* background-size: cover;
+background-position: center; */
+}
+
+
+.s{
+background-image: url("images/tom3.png");
+/* background-size: cover;
+background-position: center; */
+}
+
+.d{
+background-image: url("images/tom4.png");
+/* background-size: cover;
+background-position: center; */
+}
+
+.j{
+background-image: url("images/crash.png");
+/* background-size: cover;
+background-position: center; */
+}
+
+.k{
+background-image: url("images/kick.png");
+/* background-size: cover;
+background-position: center; */
+}
+
+.l{
+background-image: url("images/snare.png");
+/* background-size: cover;
+background-position: center; */
+}
+
+.pressed{
+box-shadow: 0 3px 4px 0 white;
+opacity: 0.5;}
+
+.white {
+color: white}
+
+
+footer {
+font-family: "Indie Flower", cursive;
+color: white;
+font-size: 1.5rem;}
+
